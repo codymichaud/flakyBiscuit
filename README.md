@@ -18,6 +18,7 @@ An interactive tech ecommerce store built using React, Next.js 13, NextUi and Ta
 ## Questions
 
 Github: [codymichaud](https://github.com/codymichaud)
+
 Email: cody.r.michaud
 
 ## Link
